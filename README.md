@@ -1,7 +1,7 @@
 # Reto-tecnico-de-automatizacion
 The challenge is to create an automation that is responsible for entering the page Utest.com and proceed to click on the registration option and fill out the form to create a new user.
 
-<img src="src/utestPage.png" alt="utestPage" width="400"> 
+<img src="src/utestPage.png" alt="utestPage" width="700"> 
 
 ## Progress
 1. Add the corresponding gitignore to the GitHub repository.
